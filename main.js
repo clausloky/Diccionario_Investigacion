@@ -36,8 +36,8 @@ async function init() {
 
     loadConcepts();
 
-    // console.log(concepts.length);
-    // console.log(concepts);
+    console.log(concepts.length);
+    console.log(concepts);
 
     function openConcept(conceptKey) {
         window.localStorage.setItem("concept", conceptKey);
@@ -131,86 +131,111 @@ async function init() {
 
     --------------- */
 
-    const contenedor = document.getElementById("lista-referencias");
+    async function cargarReferencias() {
+        const contenedor = document.getElementById("lista-referencias");
 
-    try {
-        const respuesta = await fetch("./definitions/sources.json");
-
-        if (!respuesta.ok) {
-            throw new Error("No se pudo cargar referencias.json");
+        if (!contenedor) {
+            console.error("No se encontró el contenedor lista-referencias.");
+            return;
         }
 
-        const datos = await respuesta.json();
-        const referencias = datos.referencias;
+        try {
+            const respuesta = await fetch("./definitions/sources.json");
 
-        contenedor.replaceChildren();
+            if (!respuesta.ok) {
+                throw new Error("No se pudo cargar sources.json");
+            }
 
-        // Nota aclaratoria
-        if (datos.nota) {
-            const nota = document.createElement("p");
-            nota.textContent = datos.nota;
-            contenedor.appendChild(nota);
+            const datos = await respuesta.json();
+            const referencias = datos.referencias;
 
-            const salto = document.createElement("br");
-            contenedor.appendChild(salto);
+            if (!Array.isArray(referencias)) {
+                throw new Error("El archivo JSON no contiene un array de referencias válido.");
+            }
+
+            contenedor.replaceChildren();
+
+            referencias.forEach((referencia, indice) => {
+                const entrada = document.createElement("div");
+
+                // Número de la fuente
+                const titulo = document.createElement("strong");
+                titulo.textContent = `Referencia ${referencia.numero}`;
+                entrada.appendChild(titulo);
+                entrada.appendChild(document.createElement("br"));
+
+                // Array de conceptos que aporta la fuente
+                const etiquetaConceptos = document.createElement("strong");
+                etiquetaConceptos.textContent = "Conceptos que aporta: ";
+                entrada.appendChild(etiquetaConceptos);
+
+                const conceptos = Array.isArray(referencia.conceptos)
+                    ? referencia.conceptos
+                    : [];
+
+                const listaConceptos = document.createElement("ul");
+
+                const textoConceptos = document.createElement("span");
+                textoConceptos.textContent = conceptos.join(", ");
+                entrada.appendChild(textoConceptos);
+                entrada.appendChild(document.createElement("br"));
+
+                if (conceptos.length > 0) {
+                    entrada.appendChild(listaConceptos);
+                } else {
+                    const mensaje = document.createElement("span");
+                    mensaje.textContent = "No se especificaron conceptos.";
+                    entrada.appendChild(mensaje);
+                    entrada.appendChild(document.createElement("br"));
+                }
+
+                // Referencia en formato APA 7
+                const etiquetaReferencia = document.createElement("strong");
+                etiquetaReferencia.textContent = "Referencia APA 7: ";
+                entrada.appendChild(etiquetaReferencia);
+
+                let textoReferencia = referencia.referencia || "";
+
+                // Evitar repetir la URL en el texto de la referencia
+                if (referencia.url) {
+                    textoReferencia = textoReferencia
+                        .replace(referencia.url, "")
+                        .trim();
+                }
+
+                entrada.appendChild(
+                    document.createTextNode(textoReferencia + " ")
+                );
+
+                // URL clicable
+                if (referencia.url) {
+                    const enlace = document.createElement("a");
+                    enlace.href = referencia.url;
+                    enlace.textContent = referencia.url;
+                    enlace.target = "_blank";
+                    enlace.rel = "noopener noreferrer";
+
+                    entrada.appendChild(enlace);
+                }
+
+                contenedor.appendChild(entrada);
+
+                // Separación entre fuentes
+                if (indice < referencias.length - 1) {
+                    contenedor.appendChild(document.createElement("br"));
+                    contenedor.appendChild(document.createElement("br"));
+                }
+            });
+
+        } catch (error) {
+            console.error("Error al cargar las referencias:", error);
+
+            contenedor.textContent =
+                "No se pudieron cargar las referencias. Comprueba que el archivo sources.json exista y tenga un formato válido.";
         }
-
-        referencias.forEach((referencia, indice) => {
-            const entrada = document.createElement("div");
-
-            // Número y concepto en negritas
-            const concepto = document.createElement("strong");
-            concepto.textContent =
-                `${referencia.numero}. ${referencia.concepto}`;
-
-            entrada.appendChild(concepto);
-            entrada.appendChild(document.createElement("br"));
-
-            // Etiqueta de referencia en negritas
-            const etiqueta = document.createElement("strong");
-            etiqueta.textContent = "Referencia APA 7: ";
-
-            entrada.appendChild(etiqueta);
-
-            // Evitar repetir la URL en el texto de la referencia
-            let textoReferencia = referencia.referencia;
-
-            if (referencia.url) {
-                textoReferencia = textoReferencia
-                    .replace(referencia.url, "")
-                    .trim();
-            }
-
-            entrada.appendChild(
-                document.createTextNode(textoReferencia + " ")
-            );
-
-            // URL clicable
-            if (referencia.url) {
-                const enlace = document.createElement("a");
-                enlace.href = referencia.url;
-                enlace.textContent = referencia.url;
-                enlace.target = "_blank";
-                enlace.rel = "noopener noreferrer";
-
-                entrada.appendChild(enlace);
-            }
-
-            contenedor.appendChild(entrada);
-
-            // Separación entre referencias
-            if (indice < referencias.length - 1) {
-                contenedor.appendChild(document.createElement("br"));
-                contenedor.appendChild(document.createElement("br"));
-            }
-        });
-
-    } catch (error) {
-        console.error("Error al cargar las referencias:", error);
-
-        contenedor.textContent =
-            "No se pudieron cargar las referencias. ";
     }
+
+    cargarReferencias();
 }
 
 if (document.readyState === "loading") {
