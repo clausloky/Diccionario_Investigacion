@@ -124,6 +124,93 @@ async function init() {
     searchInput.addEventListener("keydown", (e) => {
         if (e.key === "Enter") search();
     });
+
+    /* ----------------
+
+       Load sources
+
+    --------------- */
+
+    const contenedor = document.getElementById("lista-referencias");
+
+    try {
+        const respuesta = await fetch("./definitions/sources.json");
+
+        if (!respuesta.ok) {
+            throw new Error("No se pudo cargar referencias.json");
+        }
+
+        const datos = await respuesta.json();
+        const referencias = datos.referencias;
+
+        contenedor.replaceChildren();
+
+        // Nota aclaratoria
+        if (datos.nota) {
+            const nota = document.createElement("p");
+            nota.textContent = datos.nota;
+            contenedor.appendChild(nota);
+
+            const salto = document.createElement("br");
+            contenedor.appendChild(salto);
+        }
+
+        referencias.forEach((referencia, indice) => {
+            const entrada = document.createElement("div");
+
+            // Número y concepto en negritas
+            const concepto = document.createElement("strong");
+            concepto.textContent =
+                `${referencia.numero}. ${referencia.concepto}`;
+
+            entrada.appendChild(concepto);
+            entrada.appendChild(document.createElement("br"));
+
+            // Etiqueta de referencia en negritas
+            const etiqueta = document.createElement("strong");
+            etiqueta.textContent = "Referencia APA 7: ";
+
+            entrada.appendChild(etiqueta);
+
+            // Evitar repetir la URL en el texto de la referencia
+            let textoReferencia = referencia.referencia;
+
+            if (referencia.url) {
+                textoReferencia = textoReferencia
+                    .replace(referencia.url, "")
+                    .trim();
+            }
+
+            entrada.appendChild(
+                document.createTextNode(textoReferencia + " ")
+            );
+
+            // URL clicable
+            if (referencia.url) {
+                const enlace = document.createElement("a");
+                enlace.href = referencia.url;
+                enlace.textContent = referencia.url;
+                enlace.target = "_blank";
+                enlace.rel = "noopener noreferrer";
+
+                entrada.appendChild(enlace);
+            }
+
+            contenedor.appendChild(entrada);
+
+            // Separación entre referencias
+            if (indice < referencias.length - 1) {
+                contenedor.appendChild(document.createElement("br"));
+                contenedor.appendChild(document.createElement("br"));
+            }
+        });
+
+    } catch (error) {
+        console.error("Error al cargar las referencias:", error);
+
+        contenedor.textContent =
+            "No se pudieron cargar las referencias. ";
+    }
 }
 
 if (document.readyState === "loading") {

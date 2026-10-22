@@ -1,0 +1,826 @@
+{
+  "referencias": [
+    {
+      "numero": 1,
+      "concepto": "Alcance",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 2,
+      "concepto": "Análisis de datos",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 3,
+      "concepto": "Anonimato",
+      "referencia": "National Institutes of Health. (2025, June 10). Guiding principles for ethical research. https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research",
+      "url": "https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research"
+    },
+    {
+      "numero": 4,
+      "concepto": "Antecedentes",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 5,
+      "concepto": "Aportación científica",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 6,
+      "concepto": "Argumentación",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 7,
+      "concepto": "Artículo científico",
+      "referencia": "American Psychological Association. (n.d.). Reference examples. APA Style. https://apastyle.apa.org/style-grammar-guidelines/references/examples",
+      "url": "https://apastyle.apa.org/style-grammar-guidelines/references/examples"
+    },
+    {
+      "numero": 8,
+      "concepto": "Artículo de investigación",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 9,
+      "concepto": "Autoplagio",
+      "referencia": "Office of Research Integrity. (n.d.). Definition of research misconduct. U.S. Department of Health and Human Services. https://ori.hhs.gov/definition-research-misconduct",
+      "url": "https://ori.hhs.gov/definition-research-misconduct"
+    },
+    {
+      "numero": 10,
+      "concepto": "Autoría",
+      "referencia": "American Psychological Association. (2017). Ethical principles of psychologists and code of conduct. https://www.apa.org/ethics/code/ethics-code-2017.pdf",
+      "url": "https://www.apa.org/ethics/code/ethics-code-2017.pdf"
+    },
+    {
+      "numero": 11,
+      "concepto": "Base de datos",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 12,
+      "concepto": "Base de datos académica",
+      "referencia": "American Psychological Association. (n.d.). Reference examples. APA Style. https://apastyle.apa.org/style-grammar-guidelines/references/examples",
+      "url": "https://apastyle.apa.org/style-grammar-guidelines/references/examples"
+    },
+    {
+      "numero": 13,
+      "concepto": "Categorización",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 14,
+      "concepto": "Cita",
+      "referencia": "American Psychological Association. (n.d.). In-text citations. APA Style. https://apastyle.apa.org/style-grammar-guidelines/citations",
+      "url": "https://apastyle.apa.org/style-grammar-guidelines/citations"
+    },
+    {
+      "numero": 15,
+      "concepto": "Codificación",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 16,
+      "concepto": "Comunicación científica",
+      "referencia": "Purdue Online Writing Lab. (n.d.). Using research and evidence. Purdue University. https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html",
+      "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html"
+    },
+    {
+      "numero": 17,
+      "concepto": "Concepto",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 18,
+      "concepto": "Conclusión",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 19,
+      "concepto": "Confiabilidad",
+      "referencia": "National Academies of Sciences, Engineering, and Medicine. (2019). Reproducibility and replicability in science. The National Academies Press. https://doi.org/10.17226/25303",
+      "url": "https://doi.org/10.17226/25303"
+    },
+    {
+      "numero": 20,
+      "concepto": "Confidencialidad",
+      "referencia": "National Institutes of Health. (2025, June 10). Guiding principles for ethical research. https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research",
+      "url": "https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research"
+    },
+    {
+      "numero": 21,
+      "concepto": "Conflicto de interés",
+      "referencia": "National Institutes of Health. (2025, June 10). Guiding principles for ethical research. https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research",
+      "url": "https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research"
+    },
+    {
+      "numero": 22,
+      "concepto": "Congreso",
+      "referencia": "Purdue Online Writing Lab. (n.d.). Using research and evidence. Purdue University. https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html",
+      "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html"
+    },
+    {
+      "numero": 23,
+      "concepto": "Conocimiento científico",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 24,
+      "concepto": "Consentimiento informado",
+      "referencia": "National Institutes of Health. (2025, June 10). Guiding principles for ethical research. https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research",
+      "url": "https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research"
+    },
+    {
+      "numero": 25,
+      "concepto": "Constructo",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 26,
+      "concepto": "Control",
+      "referencia": "National Academies of Sciences, Engineering, and Medicine. (2019). Reproducibility and replicability in science. The National Academies Press. https://doi.org/10.17226/25303",
+      "url": "https://doi.org/10.17226/25303"
+    },
+    {
+      "numero": 27,
+      "concepto": "Correlación",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 28,
+      "concepto": "Criterios de exclusión",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 29,
+      "concepto": "Criterios de inclusión",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 30,
+      "concepto": "Cuestionario",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 31,
+      "concepto": "Dato",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 32,
+      "concepto": "Datos primarios",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 33,
+      "concepto": "Datos secundarios",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 34,
+      "concepto": "Delimitación",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 35,
+      "concepto": "Derechos de autor",
+      "referencia": "World Intellectual Property Organization. (n.d.). What is intellectual property? https://www.wipo.int/about-ip/en/",
+      "url": "https://www.wipo.int/about-ip/en/"
+    },
+    {
+      "numero": 36,
+      "concepto": "Dimensión",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 37,
+      "concepto": "Discusión",
+      "referencia": "Cochrane. (2024). Cochrane handbook for systematic reviews of interventions (Version 6.5). https://www.cochrane.org/authors/handbooks-and-manuals/handbook",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook"
+    },
+    {
+      "numero": 38,
+      "concepto": "Diseño de investigación",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 39,
+      "concepto": "Distribución",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 40,
+      "concepto": "Divulgación científica",
+      "referencia": "Purdue Online Writing Lab. (n.d.). Using research and evidence. Purdue University. https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html",
+      "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html"
+    },
+    {
+      "numero": 41,
+      "concepto": "DOI",
+      "referencia": "Crossref. (2022, September 1). Display guidelines. https://www.crossref.org/display-guidelines/",
+      "url": "https://www.crossref.org/display-guidelines/"
+    },
+    {
+      "numero": 42,
+      "concepto": "Encuesta",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 43,
+      "concepto": "Enfoque",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 44,
+      "concepto": "Entrevista",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 45,
+      "concepto": "Epistemología",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 46,
+      "concepto": "Error",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 47,
+      "concepto": "Escala de intervalo",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 48,
+      "concepto": "Escala de razón",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 49,
+      "concepto": "Escala nominal",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 50,
+      "concepto": "Escala ordinal",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 51,
+      "concepto": "Estadística",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 52,
+      "concepto": "Estado del arte",
+      "referencia": "Purdue Online Writing Lab. (n.d.). Using research and evidence. Purdue University. https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html",
+      "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html"
+    },
+    {
+      "numero": 53,
+      "concepto": "Ética de la investigación",
+      "referencia": "National Institutes of Health. (2025, June 10). Guiding principles for ethical research. https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research",
+      "url": "https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research"
+    },
+    {
+      "numero": 54,
+      "concepto": "Evidencia",
+      "referencia": "Cochrane. (2024). Cochrane handbook for systematic reviews of interventions (Version 6.5). https://www.cochrane.org/authors/handbooks-and-manuals/handbook",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook"
+    },
+    {
+      "numero": 55,
+      "concepto": "Exactitud",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 56,
+      "concepto": "Explicación científica",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 57,
+      "concepto": "Fabricación de datos",
+      "referencia": "Office of Research Integrity. (n.d.). Definition of research misconduct. U.S. Department of Health and Human Services. https://ori.hhs.gov/definition-research-misconduct",
+      "url": "https://ori.hhs.gov/definition-research-misconduct"
+    },
+    {
+      "numero": 58,
+      "concepto": "Factibilidad",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 59,
+      "concepto": "Falsificación",
+      "referencia": "Office of Research Integrity. (n.d.). Definition of research misconduct. U.S. Department of Health and Human Services. https://ori.hhs.gov/definition-research-misconduct",
+      "url": "https://ori.hhs.gov/definition-research-misconduct"
+    },
+    {
+      "numero": 60,
+      "concepto": "Fenómeno",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 61,
+      "concepto": "Frecuencia",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 62,
+      "concepto": "Fuente primaria",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 63,
+      "concepto": "Fuente secundaria",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 64,
+      "concepto": "Fuente terciaria",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 65,
+      "concepto": "Generalización",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 66,
+      "concepto": "Hallazgo",
+      "referencia": "Cochrane. (2024). Cochrane handbook for systematic reviews of interventions (Version 6.5). https://www.cochrane.org/authors/handbooks-and-manuals/handbook",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook"
+    },
+    {
+      "numero": 67,
+      "concepto": "Hipótesis",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 68,
+      "concepto": "Hipótesis alternativa",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 69,
+      "concepto": "Hipótesis nula",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 70,
+      "concepto": "Indicador",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 71,
+      "concepto": "Inferencia",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 72,
+      "concepto": "Instrumento",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 73,
+      "concepto": "Integridad científica",
+      "referencia": "Office of Research Integrity. (n.d.). Definition of research misconduct. U.S. Department of Health and Human Services. https://ori.hhs.gov/definition-research-misconduct",
+      "url": "https://ori.hhs.gov/definition-research-misconduct"
+    },
+    {
+      "numero": 74,
+      "concepto": "Interpretación",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 75,
+      "concepto": "Justificación",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 76,
+      "concepto": "Ley científica",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 77,
+      "concepto": "Libro académico",
+      "referencia": "American Psychological Association. (n.d.). Reference examples. APA Style. https://apastyle.apa.org/style-grammar-guidelines/references/examples",
+      "url": "https://apastyle.apa.org/style-grammar-guidelines/references/examples"
+    },
+    {
+      "numero": 78,
+      "concepto": "Limitaciones",
+      "referencia": "Cochrane. (2024). Cochrane handbook for systematic reviews of interventions (Version 6.5). https://www.cochrane.org/authors/handbooks-and-manuals/handbook",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook"
+    },
+    {
+      "numero": 79,
+      "concepto": "Marco conceptual",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 80,
+      "concepto": "Marco teórico",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 81,
+      "concepto": "Medición",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 82,
+      "concepto": "Método",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 83,
+      "concepto": "Metodología",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 84,
+      "concepto": "Muestra",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 85,
+      "concepto": "Muestreo",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 86,
+      "concepto": "Muestreo no probabilístico",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 87,
+      "concepto": "Muestreo probabilístico",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 88,
+      "concepto": "Objetividad",
+      "referencia": "National Academies of Sciences, Engineering, and Medicine. (2019). Reproducibility and replicability in science. The National Academies Press. https://doi.org/10.17226/25303",
+      "url": "https://doi.org/10.17226/25303"
+    },
+    {
+      "numero": 89,
+      "concepto": "Objetivo general",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 90,
+      "concepto": "Objetivos específicos",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 91,
+      "concepto": "Observación",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 92,
+      "concepto": "Operacionalización",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 93,
+      "concepto": "Paradigma",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 94,
+      "concepto": "Plagio",
+      "referencia": "Office of Research Integrity. (n.d.). Definition of research misconduct. U.S. Department of Health and Human Services. https://ori.hhs.gov/definition-research-misconduct",
+      "url": "https://ori.hhs.gov/definition-research-misconduct"
+    },
+    {
+      "numero": 95,
+      "concepto": "Planteamiento del problema",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 96,
+      "concepto": "Población",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 97,
+      "concepto": "Ponencia",
+      "referencia": "Purdue Online Writing Lab. (n.d.). Using research and evidence. Purdue University. https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html",
+      "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html"
+    },
+    {
+      "numero": 98,
+      "concepto": "Postulado",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 99,
+      "concepto": "Precisión",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 100,
+      "concepto": "Pregunta central",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 101,
+      "concepto": "Preguntas específicas",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 102,
+      "concepto": "Principio",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 103,
+      "concepto": "Procedimiento",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 104,
+      "concepto": "Promedio",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 105,
+      "concepto": "Propiedad intelectual",
+      "referencia": "World Intellectual Property Organization. (n.d.). What is intellectual property? https://www.wipo.int/about-ip/en/",
+      "url": "https://www.wipo.int/about-ip/en/"
+    },
+    {
+      "numero": 106,
+      "concepto": "Protocolo",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 107,
+      "concepto": "Publicación",
+      "referencia": "American Psychological Association. (n.d.). Reference examples. APA Style. https://apastyle.apa.org/style-grammar-guidelines/references/examples",
+      "url": "https://apastyle.apa.org/style-grammar-guidelines/references/examples"
+    },
+    {
+      "numero": 108,
+      "concepto": "Razonamiento",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 109,
+      "concepto": "Realidad",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 110,
+      "concepto": "Recolección",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 111,
+      "concepto": "Recomendaciones",
+      "referencia": "Cochrane. (2024). Cochrane handbook for systematic reviews of interventions (Version 6.5). https://www.cochrane.org/authors/handbooks-and-manuals/handbook",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook"
+    },
+    {
+      "numero": 112,
+      "concepto": "Referencia bibliográfica",
+      "referencia": "American Psychological Association. (n.d.). In-text citations. APA Style. https://apastyle.apa.org/style-grammar-guidelines/citations",
+      "url": "https://apastyle.apa.org/style-grammar-guidelines/citations"
+    },
+    {
+      "numero": 113,
+      "concepto": "Registro",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 114,
+      "concepto": "Replicabilidad",
+      "referencia": "National Academies of Sciences, Engineering, and Medicine. (2019). Reproducibility and replicability in science. The National Academies Press. https://doi.org/10.17226/25303",
+      "url": "https://doi.org/10.17226/25303"
+    },
+    {
+      "numero": 115,
+      "concepto": "Reproducibilidad",
+      "referencia": "National Academies of Sciences, Engineering, and Medicine. (2019). Reproducibility and replicability in science. The National Academies Press. https://doi.org/10.17226/25303",
+      "url": "https://doi.org/10.17226/25303"
+    },
+    {
+      "numero": 116,
+      "concepto": "Resultado",
+      "referencia": "Cochrane. (2024). Cochrane handbook for systematic reviews of interventions (Version 6.5). https://www.cochrane.org/authors/handbooks-and-manuals/handbook",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook"
+    },
+    {
+      "numero": 117,
+      "concepto": "Revisión bibliográfica",
+      "referencia": "Cochrane. (2024). Cochrane handbook for systematic reviews of interventions (Version 6.5). https://www.cochrane.org/authors/handbooks-and-manuals/handbook",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook"
+    },
+    {
+      "numero": 118,
+      "concepto": "Revisión sistemática",
+      "referencia": "Cochrane. (2024). Cochrane handbook for systematic reviews of interventions (Version 6.5). https://www.cochrane.org/authors/handbooks-and-manuals/handbook",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook"
+    },
+    {
+      "numero": 119,
+      "concepto": "Revista científica",
+      "referencia": "American Psychological Association. (n.d.). Reference examples. APA Style. https://apastyle.apa.org/style-grammar-guidelines/references/examples",
+      "url": "https://apastyle.apa.org/style-grammar-guidelines/references/examples"
+    },
+    {
+      "numero": 120,
+      "concepto": "Rigor científico",
+      "referencia": "National Academies of Sciences, Engineering, and Medicine. (2019). Reproducibility and replicability in science. The National Academies Press. https://doi.org/10.17226/25303",
+      "url": "https://doi.org/10.17226/25303"
+    },
+    {
+      "numero": 121,
+      "concepto": "Sesgo",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 122,
+      "concepto": "Supuesto",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 123,
+      "concepto": "Tabulación",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 124,
+      "concepto": "Técnica",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 125,
+      "concepto": "Tema de investigación",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 126,
+      "concepto": "Tendencia",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 127,
+      "concepto": "Teoría",
+      "referencia": "Hepburn, B., & Andersen, H. (2026). Scientific method. In E. N. Zalta & U. Nodelman (Eds.), The Stanford encyclopedia of philosophy (Fall 2026 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2026/entries/scientific-method/",
+      "url": "https://plato.stanford.edu/archives/fall2026/entries/scientific-method/"
+    },
+    {
+      "numero": 128,
+      "concepto": "Transparencia",
+      "referencia": "National Academies of Sciences, Engineering, and Medicine. (2019). Reproducibility and replicability in science. The National Academies Press. https://doi.org/10.17226/25303",
+      "url": "https://doi.org/10.17226/25303"
+    },
+    {
+      "numero": 129,
+      "concepto": "Trazabilidad",
+      "referencia": "National Academies of Sciences, Engineering, and Medicine. (2019). Reproducibility and replicability in science. The National Academies Press. https://doi.org/10.17226/25303",
+      "url": "https://doi.org/10.17226/25303"
+    },
+    {
+      "numero": 130,
+      "concepto": "Unidad de análisis",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 131,
+      "concepto": "Validez",
+      "referencia": "National Academies of Sciences, Engineering, and Medicine. (2019). Reproducibility and replicability in science. The National Academies Press. https://doi.org/10.17226/25303",
+      "url": "https://doi.org/10.17226/25303"
+    },
+    {
+      "numero": 132,
+      "concepto": "Variable cualitativa",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 133,
+      "concepto": "Variable cuantitativa",
+      "referencia": "Illowsky, B., & Dean, S. (2023). Introductory statistics 2e. OpenStax. https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction"
+    },
+    {
+      "numero": 134,
+      "concepto": "Variable dependiente",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 135,
+      "concepto": "Variable independiente",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 136,
+      "concepto": "Variable interviniente",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    },
+    {
+      "numero": 137,
+      "concepto": "Viabilidad",
+      "referencia": "Conerly, T. R., Holmes, K., & Tamang, A. L. (2021). Introduction to sociology 3e. OpenStax. https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+      "url": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction"
+    }
+  ]
+}
